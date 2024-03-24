@@ -74,6 +74,10 @@ endmodule
 
 ```
 **RTL Schematic**
+
+
+
+
 **Full Adder:**
 
 
@@ -82,12 +86,26 @@ endmodule
 
 **Full Subtractor:**
 
+
+
+
 ![image](https://github.com/dhivyadharshini2006/FULL_ADDER_SUBTRACTOR/assets/144979490/05b6dcd5-cbe5-4b5f-a8a9-3a69090a97d4)
 
 
 **Output Timing Waveform**
+
+
+
+
+
+
 **Full Adder:**
+
+
+
 ![image](https://github.com/dhivyadharshini2006/FULL_ADDER_SUBTRACTOR/assets/144979490/6d65dde2-1573-48c9-ad18-02ec5f1e7935)
+
+
 
 **Full Subtractor:**
 
